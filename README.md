@@ -14,7 +14,7 @@ By studying the foundation of cybersecurity, you will:
 - Introdauction of programming languages like Python and SQL for security enhancement.
 - Embrace the value of **continuous learning** to stay updated in the ever-changing cybersecurity landscape.
 
-## MyCertificate
+- MyCertificate
 [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/CPVBSNBE9RXJ)
 
 
