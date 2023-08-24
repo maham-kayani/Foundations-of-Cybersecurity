@@ -1,5 +1,5 @@
 # Google cybersecurity specialization
-- Involves 8 courses
+- "Safeguarding confidentiality, integrity, and availability while mitigating threats, vulnerabilities, and risks."
 - 
 # 1-Foundation of Cybersecurity
 
