@@ -1,6 +1,6 @@
 # Google cybersecurity specialization
 - "Safeguarding confidentiality, integrity, and availability while mitigating threats, vulnerabilities, and risks."
-- 
+  
 # 1-Foundation of Cybersecurity
 
 ## Learning Outcomes
