@@ -1,6 +1,7 @@
 # Google cybersecurity specialization
-- Involves 8 courses 
-#1-Foundation of Cybersecurity
+- Involves 8 courses
+- 
+# 1-Foundation of Cybersecurity
 
 ## Learning Outcomes
 By studying the foundation of cybersecurity, you will:
