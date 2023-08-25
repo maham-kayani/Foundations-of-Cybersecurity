@@ -2,16 +2,15 @@
 - "Safeguarding confidentiality, integrity, and availability while mitigating threats, vulnerabilities, and risks."
   
 # 1-Foundation of Cybersecurity
-
+-Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities
 ## Learning Outcomes
 By studying the foundation of cybersecurity, you will:
 
-- Gain historical insights into the evolution of cyber threats.
-- Understand various types of cyberattacks, such as malware, phishing, and DDoS attacks.
-- Explore the pivotal role of data analysts
-- Familiarize yourself with cybersecurity rules, guidelines, laws, and ethical considerations.
-- Learn about essential entry-level tools like SIEM, network analyzers, and antivirus software.
-- Introdauction of programming languages like Python and SQL for security enhancement.
+- Welcome to the exciting world of cybersecurity
+- The evolution of cybersecurity
+- Protect against threats, risks, and vulnerabilities **principles of the CIA triad**
+- Cybersecurity tools and programming language
+- security information and event management (SIEM) tools, network protocol analyzers, and programming languages such as Python and SQL.
 - Task resume describing value,strength, and professional statement
 - Embrace the value of **continuous learning** to stay updated in the ever-changing cybersecurity landscape.
 
@@ -19,5 +18,5 @@ By studying the foundation of cybersecurity, you will:
 [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/CPVBSNBE9RXJ)
 
 # 2-Play It Safe: Manage Security Risks
-- focus on security **frameworks and controls**, along with the core components of the confidentiality, integrity, and availability **(CIA) triad**. You'll learn about **Open Web Application Security Project (OWASP) security principles and security audits**
+-Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
 ## Learning Outcomes
