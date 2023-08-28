@@ -20,3 +20,4 @@ By studying the foundation of cybersecurity, you will:
 # 2-Play It Safe: Manage Security Risks
 -Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
 ## Learning Outcomes
+internal audit activity
