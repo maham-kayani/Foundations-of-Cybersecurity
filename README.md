@@ -23,7 +23,7 @@ By studying the foundation of cybersecurity, you will:
 - Frame and Control: Structured guidelines and best practices for establishing and maintaining effective cybersecurity measures.
 - SIEM(Dashboard for visual representations and customizeable metrics)
 - Playbook(Manual) against threats, vulnerabilities, and risks
-- Internal audit activity Assessment of security controls, policies, and procedures for compliance and risk mitigation.
+- Internal audit activity: Assessment of security controls, policies, and procedures for compliance and risk mitigation.
 
  - MyCertificate
 [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/verify/8ZLG7SBRJERB)
