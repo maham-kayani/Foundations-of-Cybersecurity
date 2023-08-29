@@ -27,3 +27,6 @@ By studying the foundation of cybersecurity, you will:
 
  - MyCertificate
 [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/verify/8ZLG7SBRJERB)
+
+# 3-Connect and Protect: Networks and Network Security
+- Network security against vulnerability
