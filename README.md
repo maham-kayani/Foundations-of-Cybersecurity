@@ -35,5 +35,6 @@ By studying the foundation of cybersecurity, you will:
 -  Network protocols, firewalls, VPN, security zone and proxy servers
 - DOS attack activity, cyberincident report (Synflood attack)  and Network analyze/packet sniffer tool i.e., CLI based TCPdump
 - Security hardening reports i.e., OS and Networking(Securityrisk-incident-report) and cloud
+- NIST Report
 
  - MyCertificate
