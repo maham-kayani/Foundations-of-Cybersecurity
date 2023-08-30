@@ -37,4 +37,5 @@ By studying the foundation of cybersecurity, you will:
 - Security hardening reports i.e., OS and Networking(Securityrisk-incident-report) and cloud
 - NIST Report
 
- - MyCertificate
+- MyCertificate
+[Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/SQB2EVLYXX4Y)
