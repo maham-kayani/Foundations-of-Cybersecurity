@@ -34,7 +34,7 @@ By studying the foundation of cybersecurity, you will:
 - TCP/IP model provides a framework for network communication
 -  Network protocols, firewalls, VPN, security zone and proxy servers
 - DOS attack activity, cyberincident report (Synflood attack)  and Network analyze/packet sniffer tool i.e., CLI based TCPdump
-- Security hardening reports i.e., OS and Networking(Securityrisk-incident-report) and cloud
+- Security hardening reports i.e., OS(reducing the attack area) and Networking(Securityrisk-incident-report) and cloud
 - NIST Report
 
 - MyCertificate
