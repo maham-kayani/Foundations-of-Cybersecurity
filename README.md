@@ -39,3 +39,7 @@ By studying the foundation of cybersecurity, you will:
 
 - MyCertificate
 - [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/SQB2EVLYXX4Y)
+
+# 4-Tools of the Trade: Linux and SQL
+- Authorization and Authentication and Security analyst role by using linux distributor Shell Bash and SQL
+  
