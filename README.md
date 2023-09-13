@@ -50,3 +50,16 @@ By studying the foundation of cybersecurity, you will:
 - Report using SQL Commands
 - MyCertificate
 - [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/A2FSF3J7DYKJ)
+
+  
+# 5-Assets, Threats, and Vulnerabilities
+
+-Classify assets
+-Analyze an attack surface to find risks and vulnerabilities
+-Identify threats, such as social engineering, malware and web-based exploits
+- Summarize the threat modeling process
+- hashing and decry exercise
+
+- MyCertificate
+- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/H3J3ZSBMYTXD)
+
