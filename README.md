@@ -63,3 +63,11 @@ By studying the foundation of cybersecurity, you will:
 - MyCertificate
 - [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/H3J3ZSBMYTXD)
 
+# 7-Automate Cybersecurity Tasks with Python
+
+-Explain how the Python programming language is used in cybersecurity
+-Create new, user-defined Python functions
+-Use regular expressions to extract information from text
+-Practice debugging code
+- MyCertificate
+- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/9SEFB63HMM6C)
