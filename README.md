@@ -14,8 +14,8 @@ By studying the foundation of cybersecurity, you will:
 - Task resume describing value,strength, and professional statement
 - Embrace the value of **continuous learning** to stay updated in the ever-changing cybersecurity landscape.
 
-- MyCertificate
-- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/CPVBSNBE9RXJ)
+- MyCertificate:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/CPVBSNBE9RXJ)
 
 # 2-Play It Safe: Manage Security Risks
 -Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
@@ -25,8 +25,8 @@ By studying the foundation of cybersecurity, you will:
 - Playbook(Manual) against threats, vulnerabilities, and risks
 - Internal audit activity: Assessment of security controls, policies, and procedures for compliance and risk mitigation.
 
- - MyCertificate
-- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/verify/8ZLG7SBRJERB)
+ - MyCertificate:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/verify/8ZLG7SBRJERB)
 
 # 3-Connect and Protect: Networks and Network Security
 - Network security against vulnerability
@@ -37,8 +37,8 @@ By studying the foundation of cybersecurity, you will:
 - Security hardening reports i.e., OS(reducing the attack area) and Networking(Securityrisk-incident-report) and cloud
 - NIST Report
 
-- MyCertificate
-- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/SQB2EVLYXX4Y)
+- MyCertificate:
+  [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/SQB2EVLYXX4Y)
 
 
 # 4-Tools of the Trade: Linux and SQL
@@ -48,8 +48,8 @@ By studying the foundation of cybersecurity, you will:
 - Navigate and manage the file system using Linux commands via the Bash shell **(Directory creation,File creation,Text editor:Nano,AUthorization access)**
 - Use SQL to retrieve information from a database **(Select, FROM, WHERE, LIKE, ON , JOINS) (operators ><= . AND OR NOT)**
 - Report using SQL Commands
-- MyCertificate
-- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/A2FSF3J7DYKJ)
+- MyCertificate:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/A2FSF3J7DYKJ)
 
   
 # 5-Assets, Threats, and Vulnerabilities
@@ -60,8 +60,8 @@ By studying the foundation of cybersecurity, you will:
 - Summarize the threat modeling process
 - hashing and decry exercise
 
-- MyCertificate
-- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/H3J3ZSBMYTXD)
+- MyCertificate:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/H3J3ZSBMYTXD)
 
 # 7-Automate Cybersecurity Tasks with Python
 
@@ -69,5 +69,5 @@ By studying the foundation of cybersecurity, you will:
 -Create new, user-defined Python functions
 -Use regular expressions to extract information from text
 -Practice debugging code
-- MyCertificate
-- [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/9SEFB63HMM6C)
+- MyCertificate:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/9SEFB63HMM6C)
