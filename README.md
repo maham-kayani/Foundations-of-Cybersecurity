@@ -1,5 +1,7 @@
 # Google cybersecurity specialization
 - "Safeguarding confidentiality, integrity, and availability while mitigating threats, vulnerabilities, and risks."
+- - MYSpecialization:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/37UYNHWAUHSZ)
   
 # 1-Foundation of Cybersecurity
 -Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities
@@ -63,6 +65,11 @@ By studying the foundation of cybersecurity, you will:
 - MyCertificate:
  [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/H3J3ZSBMYTXD)
 
+# 6-Sound the Alarm: Detection and Response
+
+- MyCertificate:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/RF97AGJMKQZN)
+
 # 7-Automate Cybersecurity Tasks with Python
 
 -Explain how the Python programming language is used in cybersecurity
@@ -71,3 +78,7 @@ By studying the foundation of cybersecurity, you will:
 -Practice debugging code
 - MyCertificate:
  [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/9SEFB63HMM6C)
+
+# 8-Put It to Work: Prepare for Cybersecurity Jobs
+- MyCertificate:
+ [Google/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/MD3CT753PUBJ)
